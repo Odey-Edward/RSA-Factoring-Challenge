@@ -27,9 +27,6 @@ void do_math(mpz_t dividend, mpz_t square_root)
 		mpz_init_set_ui(divisor, ui);
 	}
 
-	mpz_init_set_ui(divisor, 1);
-
-	gmp_printf("%Zd=%Zd*%Zd\n", dividend, dividend, divisor);
 
 	mpz_clear(quotient);
 	mpz_clear(divisor);
