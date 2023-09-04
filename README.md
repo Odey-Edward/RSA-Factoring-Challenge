@@ -11,7 +11,7 @@ See example
 
 **Example Output**
 
-julien@ubuntu:~/factors$ cat tests/test00 
+edward@ubuntu:~/factors$ cat tests/test00 
 
 4    
 12 
@@ -27,7 +27,7 @@ julien@ubuntu:~/factors$ cat tests/test00
 9797973  
 49  
 239809320265259  
-julien@ubuntu:~/factors$ time ./factors tests/test00  
+edward@ubuntu:~/factors$ time ./factors tests/test00  
 
 4=2\*2  
 12=6\*2  
