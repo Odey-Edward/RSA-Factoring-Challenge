@@ -12,6 +12,7 @@ See example
 **Example Output**
 
 edward@ubuntu:~/factors$ cat tests/test00 
+
 4    
 12 
 34   
@@ -27,6 +28,7 @@ edward@ubuntu:~/factors$ cat tests/test00
 49  
 239809320265259  
 edward@ubuntu:~/factors$ time ./factors tests/test00  
+
 4=2\*2  
 12=6\*2  
 34=17\*2  
